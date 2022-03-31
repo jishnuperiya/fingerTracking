@@ -1,5 +1,5 @@
 # <Your-Project-Title>
-
+![Accelarated C++ Book Cover](https://github.com/jishnuperiya/Accelarated-Cpp/blob/main/images/book_cover.JPG)
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
